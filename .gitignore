@@ -1,0 +1,31 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+env/
+venv/
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Downloaded podcast files
+downloads/
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
